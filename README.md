@@ -1,1 +1,2 @@
 # Restaurant-billing-management-system
+The provided C++ code is a simple program for placing food orders and calculating the total bill. Basically This program provides appropriate messages based on the user's actions .
